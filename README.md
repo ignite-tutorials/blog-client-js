@@ -1,1 +1,1 @@
-# Blog ts-client JavaScript Library
+# Blog Client JavaScript Library
